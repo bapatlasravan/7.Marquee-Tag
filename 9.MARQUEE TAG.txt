@@ -1,0 +1,29 @@
+<html>
+<title><center>MAQUEE TAG</center></title><hr><hr>
+<body>
+<h1 align="center"><font color=purple>MARQUEE TAG</font><h1>
+<h3>The marquee tag is containar tag it has both closed and oen tags,
+with the help of the marquee tag we can scroll the text
+from top to bottom;bottom to up;left to right;right to left
+we can change the speed; sieze bg color;color of the text;here are the examples
+of the marquee tag<br><h3><hr><hr>
+<h2>CASE 1:<br><h2>
+<marquee>with the help of the marquee tag we can scroll the text
+from top to bottom;bottom to up;left to right;right to left</marquee><hr>
+<marquee direction="right">with the help of the marquee tag we can scroll the text
+from top to bottom;bottom to up;left to right;right to left</marquee><hr>
+<marquee direction="up">with the help of the marquee tag we can scroll the text
+from top to bottom;bottom to up;left to right;right to left</marquee><hr>
+<marquee direction="down">with the help of the marquee tag we can scroll the text
+from top to bottom;bottom to up;left to right;right to left</marquee><hr><hr>
+<h2>CASE 2:<br><h2>
+<marquee bgcolor="yellow">we are changing background color to yellow</marquee><hr><hr>
+<h2>CASE 3:<br><h2>
+<marquee bgcolor="yellow"><font color="red">By using the font tag in the marquee tag we can change color/size/style of the text</font></marquee><hr><hr>
+<h2>CASE 4:<br><h2>
+<marquee width=50%>By using the width in marquee tag we can change the where to start the scroling from screen </marquee><hr><hr>
+<h2>CASE 5:<br><h2>
+<marquee scrollamount=20>To increase tge speed of the scroll we use scroll amount in the morquee tag; Genereally we use
+6-10 speed </marquee>
+</body>
+</html>
